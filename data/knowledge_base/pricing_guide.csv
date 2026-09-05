@@ -1,0 +1,6 @@
+sku,product_name,description,list_price,promo_price,availability
+AP300-UNIT,AquaPearl 300,Entry-level countertop water purifier,89.99,79.99,active
+AP500-UNIT,AquaPearl 500 Pro,Under-sink RO water purifier with app connectivity,189.99,169.99,active
+AM-UNIT,AeroPearl Mini,Compact air purifier for small rooms,59.99,,active
+AP300-FILT,AquaPearl 300 Replacement Filter,Sediment + carbon filter cartridge,14.99,,active
+AP500-FILT-SED,AquaPearl 500 Pro Sediment Filter,Stage 1 sediment pre-filter,12.99,,active

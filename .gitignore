@@ -1,0 +1,12 @@
+.env
+data/vector_store/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+logs/
+*.log
+.DS_Store
+evaluation/results/*.json
+evaluation/results/*.csv
