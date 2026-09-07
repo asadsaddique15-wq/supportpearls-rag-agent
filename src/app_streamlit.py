@@ -1,7 +1,11 @@
 # Streamlit web UI for SupportPearlz. Requires the user to enter their own OpenAI
 # API key before any access to the chat is granted -- no fallback to a stored key.
-
 from __future__ import annotations
+
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import streamlit as st
 from langchain_chroma import Chroma
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
